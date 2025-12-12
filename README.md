@@ -28,7 +28,3 @@ venv\Scripts\activate     # Windows
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
-
-🔹 Требования
-	•	Python 3.9+
-	•	Библиотеки: requests, eth_account, python-dotenv
